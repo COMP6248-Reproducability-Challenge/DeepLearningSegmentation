@@ -1,0 +1,49 @@
+lr=2 batch=10 echo=300
+Test 
+>>>> Avg. loss: 0.9632 | Mean IoU: 0.4786
+sky: 0.9028
+building: 0.6113
+pole: 0.1683
+road: 0.9115
+pavement: 0.7225
+tree: 0.6100
+sign_symbol: 0.1499
+fence: 0.1147
+car: 0.6604
+pedestrian: 0.1560
+bicyclist: 0.2569
+unlabeled: nan
+
+lr=8 batch=10 echo=300
+Test 
+>>>> Avg. loss: 1.0743 | Mean IoU: 0.5286
+sky: 0.9010
+building: 0.6986
+pole: 0.2173
+road: 0.9169
+pavement: 0.7342
+tree: 0.6452
+sign_symbol: 0.2281
+fence: 0.1365
+car: 0.6851
+pedestrian: 0.3042
+bicyclist: 0.3478
+unlabeled: nan
+
+lr=8 batch=5 echo=300
+Test 
+>>>> Running test dataset
+>>>> Avg. loss: 1.0234 | Mean IoU: 0.5399
+sky: 0.9065
+building: 0.7007
+pole: 0.2302
+road: 0.9265
+pavement: 0.7620
+tree: 0.6438
+sign_symbol: 0.2148
+fence: 0.1883
+car: 0.6874
+pedestrian: 0.3176
+bicyclist: 0.3613
+unlabeled: nan
+
