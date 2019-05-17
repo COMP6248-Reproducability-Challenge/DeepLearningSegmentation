@@ -22473,4 +22473,5 @@ Epoch : 299 Details
 Epoch No.: 299	Train Loss = 0.1624	 mIOU(tr) = 0.7803	 lr= 0.000000
 training time: 1.46601775907111
 
+Add the log of CGNet in CamVid when batch size is 5
 
