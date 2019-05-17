@@ -19,3 +19,5 @@ The source code of the CGNet is refer to https://github.com/wutianyiRosun/CGNet 
 The source code of the SegGNet is refer to https://github.com/meetshah1995/pytorch-semseg and optimized for different comparing scenario.
 
 The source code of the DeepLab v3 is refer to https://github.com/tensorflow/models/tree/master/research/deeplab and optimized for different comparing scenario.
+
+The preprocessing of Cityscapes is refer to https://github.com/mcordts/cityscapesScripts
